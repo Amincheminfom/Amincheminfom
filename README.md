@@ -1,6 +1,6 @@
 ## Hi there 👋
-![Header](https://github.com/Amincheminfom/Amincheminfom/blob/main/Amincheminfom1.gif)
-
+<!--![Header](https://github.com/Amincheminfom/Amincheminfom/blob/main/Amincheminfom1.gif)-->
+<img src="https://github.com/Amincheminfom/Amincheminfom/blob/main/Amincheminfom1.gif" width="700" height="400">
 
 
 <!--
